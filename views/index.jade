@@ -1,0 +1,71 @@
+html
+  head
+    title!= title
+    link(href='/css/style.css', rel='stylesheet')
+    link(rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous") 
+    link(rel="stylesheet" href="external/bootstrap-datetimepicker.min.css")
+    
+    script(type="text/javascript" src="https://www.gstatic.com/charts/loader.js")
+    script(src="js/my_charter.js")
+
+    script(src="/external/jquery-3.2.0.min.js")
+    script(src="/external/Chart.min.js")
+    script(src="/external/moment.min.js")
+    script(src="/external/bootstrap.min.js")
+    
+    script(src="external/bootstrap-datetimepicker.min.js")
+
+  body
+    nav(class="navbar")
+        div(class="navbar-header")
+            div(class="row")
+                
+                img(id="logo" src="images/El_Observador.PNG")
+               
+                img(id="loadingImg" src="images/loading.gif" style="display:none")             
+                
+                div(class="col-lg-5 goRight")
+                    div(class="input-group")
+                        span(class="input-group-addon" id="start_date_group") From
+                        input(type="text" class="form-control" placeholder="yyyy-mm-dd" aria-describedby="start_date_group" id="start_date")
+                        span(class="input-group-addon" id="end_date_group") To
+                        input(type="text" class="form-control" placeholder="yyyy-mm-dd" aria-describedby="end_date_group" id="end_date")
+                div(class="col-lg-3 goRight")
+                    div(class="input-group goRight")
+                        button(type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false")
+                            | remove
+                            span(class="caret")                
+                        ul(class="dropdown-menu")
+                            for item in collections
+                                li 
+                                    button(type="button" class="btn btn-#{item} btn-xs btn-default" data-url="remove/#{item}") #{item}
+                    div(class="input-group")
+                        span(class="input-group-addon")
+                            input(type="checkbox" id="csv")
+                            | csv?
+                        button(type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false")
+                            | getDocuements
+                            span(class="caret")              
+                        ul(class="dropdown-menu")
+                            for item in collections
+                                li 
+                                    button(type="button" class="btn btn-#{item} btn-xs btn-default" data-url="getDocuments/#{item}") #{item}
+                   
+
+    div(id="leftColumn")
+        for item in templateConfig.menu
+            button(type="button" class="btn btn-#{item.class} btn-xs menu_button" data-url=item.data_url ) #{item.text} 
+
+    main
+        div(id="mainContent") 
+            div(id="rawInfo")
+
+            div(id="raw")
+            
+            div(id="top")
+                div(id="myChart1" class="charter")
+                //div(id="myChart2" class="charter")
+               
+                
+        
+script(src="/js/indexClient.js")

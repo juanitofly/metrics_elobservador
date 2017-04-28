@@ -1,0 +1,941 @@
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T19:10:47.643Z"}
+{"level":"info","message":"/getFromDOC_category ############################ ","timestamp":"2017-04-06T19:11:09.848Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 104 intentos: 0 page: 1","timestamp":"2017-04-06T19:11:09.849Z"}
+{"level":"info","message":"j 0 category_id 104 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T19:11:10.434Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1006 intentos: 0 page: 1","timestamp":"2017-04-06T19:11:10.440Z"}
+{"level":"info","message":"j 1 category_id 1006 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T19:11:24.412Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1006 intentos: 0 page: 2","timestamp":"2017-04-06T19:11:24.417Z"}
+{"level":"info","message":"j 1 category_id 1006 page 2 result.newsArticles.length 500","timestamp":"2017-04-06T19:11:38.540Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1018 intentos: 0 page: 1","timestamp":"2017-04-06T19:11:38.544Z"}
+{"level":"info","message":"j 2 category_id 1018 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T19:11:39.037Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1018 intentos: 0 page: 2","timestamp":"2017-04-06T19:11:39.041Z"}
+{"level":"info","message":"j 2 category_id 1018 page 2 result.newsArticles.length 500","timestamp":"2017-04-06T19:11:39.554Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1019 intentos: 0 page: 1","timestamp":"2017-04-06T19:11:39.558Z"}
+{"level":"info","message":"j 3 category_id 1019 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T19:11:53.494Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1019 intentos: 0 page: 2","timestamp":"2017-04-06T19:11:53.497Z"}
+{"level":"info","message":"j 3 category_id 1019 page 2 result.newsArticles.length 500","timestamp":"2017-04-06T19:12:10.125Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1019 intentos: 0 page: 3","timestamp":"2017-04-06T19:12:10.127Z"}
+{"level":"info","message":"j 3 category_id 1019 page 3 result.newsArticles.length 500","timestamp":"2017-04-06T19:12:28.450Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1020 intentos: 0 page: 1","timestamp":"2017-04-06T19:12:28.453Z"}
+{"level":"info","message":"j 4 category_id 1020 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T19:12:28.970Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1020 intentos: 0 page: 2","timestamp":"2017-04-06T19:12:28.973Z"}
+{"level":"info","message":"j 4 category_id 1020 page 2 result.newsArticles.length 500","timestamp":"2017-04-06T19:12:44.146Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1021 intentos: 0 page: 1","timestamp":"2017-04-06T19:12:44.149Z"}
+{"level":"info","message":"j 5 category_id 1021 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T19:12:44.636Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1022 intentos: 0 page: 1","timestamp":"2017-04-06T19:12:44.638Z"}
+{"level":"info","message":"j 6 category_id 1022 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T19:12:45.167Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1023 intentos: 0 page: 1","timestamp":"2017-04-06T19:12:45.170Z"}
+{"level":"info","message":"j 7 category_id 1023 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T19:12:51.698Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1023 intentos: 0 page: 2","timestamp":"2017-04-06T19:12:51.701Z"}
+{"level":"info","message":"j 7 category_id 1023 page 2 result.newsArticles.length 500","timestamp":"2017-04-06T19:13:07.319Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1024 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:07.322Z"}
+{"level":"info","message":"j 8 category_id 1024 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T19:13:23.952Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1025 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:23.956Z"}
+{"level":"info","message":"j 9 category_id 1025 page 1 result.newsArticles.length 29","timestamp":"2017-04-06T19:13:25.083Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1051 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:25.084Z"}
+{"level":"info","message":"j 10 category_id 1051 page 1 result.newsArticles.length 150","timestamp":"2017-04-06T19:13:27.880Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1059 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:27.884Z"}
+{"level":"info","message":"j 11 category_id 1059 page 1 result.newsArticles.length 133","timestamp":"2017-04-06T19:13:32.180Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1122 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:32.182Z"}
+{"level":"info","message":"BORRAR 12 1122 Agro 1","timestamp":"2017-04-06T19:13:32.748Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1134 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:32.749Z"}
+{"level":"info","message":"BORRAR 13 1134 Mundo 1","timestamp":"2017-04-06T19:13:33.308Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1135 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:33.309Z"}
+{"level":"info","message":"BORRAR 14 1135 Nacional 1","timestamp":"2017-04-06T19:13:33.855Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1137 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:33.855Z"}
+{"level":"info","message":"BORRAR 15 1137 Tecnología 1","timestamp":"2017-04-06T19:13:34.466Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1138 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:34.467Z"}
+{"level":"info","message":"BORRAR 16 1138 Salud 1","timestamp":"2017-04-06T19:13:35.027Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1139 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:35.028Z"}
+{"level":"info","message":"BORRAR 17 1139 Espectáculos 1","timestamp":"2017-04-06T19:13:35.575Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1140 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:35.576Z"}
+{"level":"info","message":"BORRAR 18 1140 Estilo 1","timestamp":"2017-04-06T19:13:36.242Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1141 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:36.242Z"}
+{"level":"info","message":"BORRAR 19 1141 Sociales 1","timestamp":"2017-04-06T19:13:36.810Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1142 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:36.810Z"}
+{"level":"info","message":"BORRAR 20 1142 Opinión 1","timestamp":"2017-04-06T19:13:37.354Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1164 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:37.355Z"}
+{"level":"info","message":"BORRAR 21 1164 Publicaciones 1","timestamp":"2017-04-06T19:13:37.950Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1181 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:37.950Z"}
+{"level":"info","message":"BORRAR 22 1181 Tecnología 1","timestamp":"2017-04-06T19:13:38.575Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1196 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:38.576Z"}
+{"level":"info","message":"BORRAR 23 1196 Viajes 1","timestamp":"2017-04-06T19:13:39.172Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1198 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:39.173Z"}
+{"level":"info","message":"BORRAR 24 1198 Viajes 1","timestamp":"2017-04-06T19:13:39.763Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4032 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:39.764Z"}
+{"level":"info","message":"BORRAR 25 4032 Economía y Empresas 1","timestamp":"2017-04-06T19:13:40.352Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4204 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:40.353Z"}
+{"level":"info","message":"j 26 category_id 4204 page 1 result.newsArticles.length 1","timestamp":"2017-04-06T19:13:40.934Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4206 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:40.937Z"}
+{"level":"info","message":"j 27 category_id 4206 page 1 result.newsArticles.length 1","timestamp":"2017-04-06T19:13:41.494Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4208 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:41.495Z"}
+{"level":"info","message":"j 28 category_id 4208 page 1 result.newsArticles.length 1","timestamp":"2017-04-06T19:13:42.034Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4215 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:42.034Z"}
+{"level":"info","message":"j 29 category_id 4215 page 1 result.newsArticles.length 373","timestamp":"2017-04-06T19:13:51.316Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4224 intentos: 0 page: 1","timestamp":"2017-04-06T19:13:51.317Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4224 intentos: 2 page: 1","timestamp":"2017-04-06T19:14:51.650Z"}
+{"level":"info","message":"BORRAR 30 4224 Sociales 1","timestamp":"2017-04-06T19:15:21.828Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4801 intentos: 0 page: 1","timestamp":"2017-04-06T19:15:21.829Z"}
+{"level":"info","message":"j 31 category_id 4801 page 1 result.newsArticles.length 5","timestamp":"2017-04-06T19:15:22.988Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4826 intentos: 0 page: 1","timestamp":"2017-04-06T19:15:22.988Z"}
+{"level":"info","message":"BORRAR 32 4826 Comer mejor 1","timestamp":"2017-04-06T19:15:23.592Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5111 intentos: 0 page: 1","timestamp":"2017-04-06T19:15:23.592Z"}
+{"level":"info","message":"j 33 category_id 5111 page 1 result.newsArticles.length 4","timestamp":"2017-04-06T19:15:24.263Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5117 intentos: 0 page: 1","timestamp":"2017-04-06T19:15:24.266Z"}
+{"level":"info","message":"j 34 category_id 5117 page 1 result.newsArticles.length 47","timestamp":"2017-04-06T19:15:26.327Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5123 intentos: 0 page: 1","timestamp":"2017-04-06T19:15:26.329Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5123 intentos: 1 page: 1","timestamp":"2017-04-06T19:15:27.044Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5123 intentos: 2 page: 1","timestamp":"2017-04-06T19:15:27.679Z"}
+{"level":"info","message":"BORRAR 35 5123 Tecnología 1","timestamp":"2017-04-06T19:15:28.344Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5137 intentos: 0 page: 1","timestamp":"2017-04-06T19:15:28.345Z"}
+{"level":"info","message":"j 36 category_id 5137 page 1 result.newsArticles.length 2","timestamp":"2017-04-06T19:15:29.021Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5293 intentos: 0 page: 1","timestamp":"2017-04-06T19:15:29.029Z"}
+{"level":"info","message":"j 37 category_id 5293 page 1 result.newsArticles.length 24","timestamp":"2017-04-06T19:15:30.067Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5485 intentos: 0 page: 1","timestamp":"2017-04-06T19:15:30.067Z"}
+{"level":"info","message":"BORRAR 38 5485 Agro 1","timestamp":"2017-04-06T19:15:30.615Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5489 intentos: 0 page: 1","timestamp":"2017-04-06T19:15:30.615Z"}
+{"level":"info","message":"j 39 category_id 5489 page 1 result.newsArticles.length 97","timestamp":"2017-04-06T19:15:33.039Z"}
+{"level":"info","message":"res.json........................ j: 40 _ page: 1","timestamp":"2017-04-06T19:15:33.040Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T19:20:02.663Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T19:20:07.420Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T19:20:37.843Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T19:20:44.036Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T19:20:45.952Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T19:20:50.786Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T20:14:44.498Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T20:14:45.717Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T20:15:19.737Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T20:15:32.214Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T20:16:12.926Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T20:17:14.584Z"}
+{"level":"info","message":"/getFromDOC_category/:category_name ############################ ","timestamp":"2017-04-06T20:17:19.693Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1122 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:19.694Z"}
+{"level":"info","message":"BORRAR 0 1122 Agro 1","timestamp":"2017-04-06T20:17:20.554Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1134 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:20.555Z"}
+{"level":"info","message":"BORRAR 1 1134 Mundo 1","timestamp":"2017-04-06T20:17:21.136Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1135 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:21.136Z"}
+{"level":"info","message":"BORRAR 2 1135 Nacional 1","timestamp":"2017-04-06T20:17:21.768Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1137 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:21.769Z"}
+{"level":"info","message":"BORRAR 3 1137 Tecnología 1","timestamp":"2017-04-06T20:17:22.341Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1138 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:22.341Z"}
+{"level":"info","message":"BORRAR 4 1138 Salud 1","timestamp":"2017-04-06T20:17:22.876Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1139 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:22.877Z"}
+{"level":"info","message":"BORRAR 5 1139 Espectáculos 1","timestamp":"2017-04-06T20:17:23.430Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1140 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:23.431Z"}
+{"level":"info","message":"BORRAR 6 1140 Estilo 1","timestamp":"2017-04-06T20:17:23.996Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1141 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:23.997Z"}
+{"level":"info","message":"BORRAR 7 1141 Sociales 1","timestamp":"2017-04-06T20:17:24.556Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1142 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:24.556Z"}
+{"level":"info","message":"BORRAR 8 1142 Opinión 1","timestamp":"2017-04-06T20:17:25.147Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1164 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:25.148Z"}
+{"level":"info","message":"BORRAR 9 1164 Publicaciones 1","timestamp":"2017-04-06T20:17:25.732Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1181 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:25.733Z"}
+{"level":"info","message":"BORRAR 10 1181 Tecnología 1","timestamp":"2017-04-06T20:17:26.358Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1196 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:26.358Z"}
+{"level":"info","message":"BORRAR 11 1196 Viajes 1","timestamp":"2017-04-06T20:17:26.911Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1198 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:26.912Z"}
+{"level":"info","message":"BORRAR 12 1198 Viajes 1","timestamp":"2017-04-06T20:17:27.489Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4032 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:27.490Z"}
+{"level":"info","message":"BORRAR 13 4032 Economía y Empresas 1","timestamp":"2017-04-06T20:17:28.072Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4224 intentos: 0 page: 1","timestamp":"2017-04-06T20:17:28.073Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4224 intentos: 1 page: 1","timestamp":"2017-04-06T20:17:58.236Z"}
+{"level":"info","message":"j 14 category_id 4224 page 1 result.newsArticles.length 443","timestamp":"2017-04-06T20:18:18.401Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4826 intentos: 0 page: 1","timestamp":"2017-04-06T20:18:18.408Z"}
+{"level":"info","message":"BORRAR 15 4826 Comer mejor 1","timestamp":"2017-04-06T20:18:18.987Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5123 intentos: 0 page: 1","timestamp":"2017-04-06T20:18:18.990Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5123 intentos: 1 page: 1","timestamp":"2017-04-06T20:18:19.608Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5123 intentos: 2 page: 1","timestamp":"2017-04-06T20:18:20.278Z"}
+{"level":"info","message":"BORRAR 16 5123 Tecnología 1","timestamp":"2017-04-06T20:18:20.825Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5485 intentos: 0 page: 1","timestamp":"2017-04-06T20:18:20.825Z"}
+{"level":"info","message":"BORRAR 17 5485 Agro 1","timestamp":"2017-04-06T20:18:21.421Z"}
+{"level":"info","message":"res.json........................ j: 18 _ page: 1","timestamp":"2017-04-06T20:18:21.422Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T20:25:53.908Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T20:26:50.172Z"}
+{"level":"info","message":"/getFromDOC_category/:category_name ############################ ","timestamp":"2017-04-06T20:27:08.610Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 104 intentos: 0 page: 1","timestamp":"2017-04-06T20:27:08.611Z"}
+{"level":"info","message":"j 0 category_id 104 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T20:27:17.043Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1006 intentos: 0 page: 1","timestamp":"2017-04-06T20:27:17.045Z"}
+{"level":"info","message":"j 1 category_id 1006 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T20:27:32.152Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1006 intentos: 0 page: 2","timestamp":"2017-04-06T20:27:32.155Z"}
+{"level":"info","message":"j 1 category_id 1006 page 2 result.newsArticles.length 500","timestamp":"2017-04-06T20:27:44.059Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1018 intentos: 0 page: 1","timestamp":"2017-04-06T20:27:44.062Z"}
+{"level":"info","message":"j 2 category_id 1018 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T20:27:52.595Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1018 intentos: 0 page: 2","timestamp":"2017-04-06T20:27:52.596Z"}
+{"level":"info","message":"j 2 category_id 1018 page 2 result.newsArticles.length 500","timestamp":"2017-04-06T20:28:09.455Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1019 intentos: 0 page: 1","timestamp":"2017-04-06T20:28:09.460Z"}
+{"level":"info","message":"j 3 category_id 1019 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T20:28:27.661Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1019 intentos: 0 page: 2","timestamp":"2017-04-06T20:28:27.670Z"}
+{"level":"info","message":"j 3 category_id 1019 page 2 result.newsArticles.length 500","timestamp":"2017-04-06T20:28:41.825Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1019 intentos: 0 page: 3","timestamp":"2017-04-06T20:28:41.828Z"}
+{"level":"info","message":"j 3 category_id 1019 page 3 result.newsArticles.length 500","timestamp":"2017-04-06T20:28:59.880Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1020 intentos: 0 page: 1","timestamp":"2017-04-06T20:28:59.881Z"}
+{"level":"info","message":"j 4 category_id 1020 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T20:29:15.949Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1020 intentos: 0 page: 2","timestamp":"2017-04-06T20:29:15.952Z"}
+{"level":"info","message":"j 4 category_id 1020 page 2 result.newsArticles.length 500","timestamp":"2017-04-06T20:29:22.017Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1021 intentos: 0 page: 1","timestamp":"2017-04-06T20:29:22.020Z"}
+{"level":"info","message":"j 5 category_id 1021 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T20:29:33.348Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1022 intentos: 0 page: 1","timestamp":"2017-04-06T20:29:33.350Z"}
+{"level":"info","message":"j 6 category_id 1022 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T20:29:46.030Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1023 intentos: 0 page: 1","timestamp":"2017-04-06T20:29:46.033Z"}
+{"level":"info","message":"j 7 category_id 1023 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T20:29:58.959Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1023 intentos: 0 page: 2","timestamp":"2017-04-06T20:29:58.962Z"}
+{"level":"info","message":"j 7 category_id 1023 page 2 result.newsArticles.length 500","timestamp":"2017-04-06T20:30:12.054Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1024 intentos: 0 page: 1","timestamp":"2017-04-06T20:30:12.056Z"}
+{"level":"info","message":"j 8 category_id 1024 page 1 result.newsArticles.length 500","timestamp":"2017-04-06T20:30:31.250Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1025 intentos: 0 page: 1","timestamp":"2017-04-06T20:30:31.254Z"}
+{"level":"info","message":"j 9 category_id 1025 page 1 result.newsArticles.length 29","timestamp":"2017-04-06T20:30:32.985Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1051 intentos: 0 page: 1","timestamp":"2017-04-06T20:30:32.987Z"}
+{"level":"info","message":"j 10 category_id 1051 page 1 result.newsArticles.length 150","timestamp":"2017-04-06T20:30:37.554Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 1059 intentos: 0 page: 1","timestamp":"2017-04-06T20:30:37.556Z"}
+{"level":"info","message":"j 11 category_id 1059 page 1 result.newsArticles.length 133","timestamp":"2017-04-06T20:30:42.937Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4204 intentos: 0 page: 1","timestamp":"2017-04-06T20:30:42.938Z"}
+{"level":"info","message":"j 12 category_id 4204 page 1 result.newsArticles.length 1","timestamp":"2017-04-06T20:30:43.543Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4206 intentos: 0 page: 1","timestamp":"2017-04-06T20:30:43.543Z"}
+{"level":"info","message":"j 13 category_id 4206 page 1 result.newsArticles.length 1","timestamp":"2017-04-06T20:30:44.182Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4208 intentos: 0 page: 1","timestamp":"2017-04-06T20:30:44.183Z"}
+{"level":"info","message":"j 14 category_id 4208 page 1 result.newsArticles.length 1","timestamp":"2017-04-06T20:30:44.722Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4215 intentos: 0 page: 1","timestamp":"2017-04-06T20:30:44.723Z"}
+{"level":"info","message":"j 15 category_id 4215 page 1 result.newsArticles.length 373","timestamp":"2017-04-06T20:30:54.591Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4224 intentos: 0 page: 1","timestamp":"2017-04-06T20:30:54.594Z"}
+{"level":"info","message":"j 16 category_id 4224 page 1 result.newsArticles.length 443","timestamp":"2017-04-06T20:31:16.347Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 4801 intentos: 0 page: 1","timestamp":"2017-04-06T20:31:16.349Z"}
+{"level":"info","message":"j 17 category_id 4801 page 1 result.newsArticles.length 5","timestamp":"2017-04-06T20:31:17.717Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5111 intentos: 0 page: 1","timestamp":"2017-04-06T20:31:17.718Z"}
+{"level":"info","message":"j 18 category_id 5111 page 1 result.newsArticles.length 4","timestamp":"2017-04-06T20:31:18.404Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5117 intentos: 0 page: 1","timestamp":"2017-04-06T20:31:18.406Z"}
+{"level":"info","message":"j 19 category_id 5117 page 1 result.newsArticles.length 47","timestamp":"2017-04-06T20:31:20.703Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5137 intentos: 0 page: 1","timestamp":"2017-04-06T20:31:20.705Z"}
+{"level":"info","message":"j 20 category_id 5137 page 1 result.newsArticles.length 2","timestamp":"2017-04-06T20:31:21.306Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5293 intentos: 0 page: 1","timestamp":"2017-04-06T20:31:21.306Z"}
+{"level":"info","message":"j 21 category_id 5293 page 1 result.newsArticles.length 24","timestamp":"2017-04-06T20:31:22.342Z"}
+{"level":"info","message":"getArticleFromDOC_category idCategory: 5489 intentos: 0 page: 1","timestamp":"2017-04-06T20:31:22.343Z"}
+{"level":"info","message":"j 22 category_id 5489 page 1 result.newsArticles.length 97","timestamp":"2017-04-06T20:31:27.211Z"}
+{"level":"info","message":"res.json........................ j: 23 _ page: 1","timestamp":"2017-04-06T20:31:27.212Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T21:54:26.384Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T21:54:31.912Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T21:55:19.444Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T21:55:31.060Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T21:55:36.191Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T21:56:07.143Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T21:56:42.174Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T21:57:22.251Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T21:58:14.586Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-06T21:58:18.986Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:22:37.622Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:27:30.248Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:27:38.662Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:30:35.721Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:33:08.443Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:33:09.638Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:33:23.672Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:33:24.728Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:34:26.677Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:48:59.798Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:49:08.700Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:49:14.197Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:49:15.478Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:49:36.763Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:49:48.715Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:49:53.740Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:50:01.888Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:50:15.806Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:51:26.314Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:51:29.008Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:52:03.353Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:52:09.946Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:52:11.173Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T13:54:20.873Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:02:55.144Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:03:45.448Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:03:46.389Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:03:47.766Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:04:07.498Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:49:37.288Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:51:38.260Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:52:26.057Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:52:49.632Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:52:50.549Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:54:42.727Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:55:01.664Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:55:02.971Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:55:25.396Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:55:59.357Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:56:16.854Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:56:56.358Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:56:57.406Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T14:57:26.744Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:06:28.749Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:14:18.641Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:21:11.448Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:21:45.714Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:21:56.040Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:26:21.045Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:27:39.583Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:28:24.590Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:30:59.379Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:31:49.353Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:39:13.277Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:40:37.961Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:40:39.353Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:44:20.741Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:44:25.928Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:45:10.051Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:46:53.572Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:50:43.806Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:51:08.245Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:52:35.525Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:56:28.636Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:56:54.508Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T15:57:21.955Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:01:33.142Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:02:22.684Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:02:27.490Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:02:28.539Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:03:22.310Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:07:48.148Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:08:09.838Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:11:57.252Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:12:06.189Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:17:31.973Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:17:35.544Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:21:00.204Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:21:04.147Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:22:58.154Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:23:18.839Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:25:08.090Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:27:04.761Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:32:06.617Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:32:45.480Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:32:46.667Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:32:53.876Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:32:55.039Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:33:21.291Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:33:23.525Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:35:11.050Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:35:21.534Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:35:31.020Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:35:32.404Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T16:35:50.006Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:37:40.469Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:39:05.527Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:40:23.192Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:40:29.111Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:40:31.284Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:40:40.975Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:42:42.699Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:42:53.393Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:42:54.528Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:43:16.273Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:48:52.947Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:49:05.970Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:49:11.683Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:51:03.577Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:51:04.485Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:52:51.678Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:54:25.021Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:54:30.098Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:54:35.490Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T17:54:50.156Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:08:07.326Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:08:08.467Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:08:17.180Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:08:18.206Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:09:10.839Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:10:06.244Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:10:11.665Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:10:19.767Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:10:59.191Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:11:49.701Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:12:37.851Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:12:40.801Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:12:49.480Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:12:53.143Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:13:21.050Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:13:41.923Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:14:50.142Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:18:12.009Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:20:12.698Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:20:17.381Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:20:41.156Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:25:27.221Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:25:32.284Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:39:35.816Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:39:39.051Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:39:40.837Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:39:42.042Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:39:43.311Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:40:05.907Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:40:18.232Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:42:09.644Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:42:18.681Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:42:27.949Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:47:58.854Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:48:18.299Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:48:45.748Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:48:51.694Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:49:06.137Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:50:09.645Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:50:25.426Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:52:52.986Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:53:40.365Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:53:46.293Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:53:57.180Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:54:00.500Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:54:48.775Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:57:21.087Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:57:24.051Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:58:03.797Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:58:30.072Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:58:37.877Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:58:51.531Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:59:23.412Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:59:24.775Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:59:31.406Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:59:53.888Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T18:59:55.214Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:00:26.251Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:00:51.886Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:02:40.692Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:02:41.721Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:02:55.822Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:03:03.963Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:04:23.239Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:04:45.209Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:04:46.635Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:05:09.782Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:06:49.475Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:06:51.125Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:14:59.966Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:15:08.060Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:15:24.156Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:19:11.165Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:25:49.807Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:25:52.594Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:26:24.469Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:26:36.880Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:27:08.810Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:27:09.993Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:30:45.592Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:33:29.648Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:42:52.521Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:48:04.394Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:48:36.919Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:50:10.360Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:55:01.581Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T19:55:10.872Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:00:46.340Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:00:47.741Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:00:48.733Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:00:57.422Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:02:02.904Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:02:04.352Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:03:56.442Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:04:30.554Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:04:51.392Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:09:16.764Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:09:27.529Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:09:31.018Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:10:59.475Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:11:01.087Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:12:50.393Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:12:58.724Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:12:59.716Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:13:19.858Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:13:47.179Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:14:04.536Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-07T20:14:08.416Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:14:54.784Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:38:24.879Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:39:24.265Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:39:53.552Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:39:55.150Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:41:55.917Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:41:57.084Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:42:58.858Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:43:00.777Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:43:11.959Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:43:14.591Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:43:17.585Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:43:59.482Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:44:00.997Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:44:02.327Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:44:06.746Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:45:27.011Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:45:28.214Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:49:11.878Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:49:15.411Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:49:45.475Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T18:49:55.227Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T19:04:06.759Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T19:04:38.428Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T19:05:17.147Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T19:05:53.185Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T19:05:54.379Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T19:06:01.060Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T19:06:26.326Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T19:07:22.793Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:10:52.154Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:10:53.109Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:10:56.367Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:10:59.038Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:13:07.230Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:15:12.812Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:15:13.960Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:15:28.204Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:15:48.323Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:15:53.035Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:16:49.525Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:17:44.326Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:18:08.493Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:18:09.969Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:19:17.085Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:19:20.269Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:25:59.440Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:26:02.160Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:27:15.354Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:27:17.222Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:27:21.740Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:27:46.333Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:31:07.887Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:32:03.260Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:34:03.200Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:35:26.311Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:35:35.465Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:36:00.611Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:37:23.808Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:37:37.374Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:37:50.395Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:37:58.799Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:38:16.620Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:38:27.149Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:38:38.601Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:38:50.624Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:39:14.517Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:39:16.090Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:39:48.748Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:39:59.649Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:40:10.521Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:52:06.752Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:52:07.853Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:52:42.841Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:52:47.272Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:54:23.502Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:54:30.648Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:55:09.359Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:57:05.362Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:57:15.649Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:57:21.151Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:57:39.522Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:57:48.651Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:58:08.550Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:58:14.162Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:58:38.856Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:58:45.704Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T20:58:48.832Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T21:12:18.812Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T21:12:24.326Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T21:21:32.821Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T21:22:10.465Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T21:23:00.296Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T21:24:27.883Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T21:24:48.374Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T21:24:50.003Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T21:24:57.529Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-10T21:25:08.422Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T15:54:30.044Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T15:55:29.166Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T15:55:34.863Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T16:29:50.862Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T16:32:19.490Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T16:33:42.506Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:20:40.448Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:21:48.336Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:21:55.962Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:22:02.314Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:22:09.098Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:22:29.163Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:22:43.115Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:22:47.993Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:25:50.556Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:25:54.797Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:26:26.183Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:26:37.511Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:27:02.730Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:27:04.307Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:27:11.657Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:27:13.438Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:29:20.057Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:30:28.848Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:30:30.147Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:30:43.225Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:30:59.823Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:32:01.553Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:33:15.165Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:33:36.305Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:34:26.805Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:35:13.970Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:35:51.803Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:36:03.819Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:36:11.498Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:36:33.304Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:36:44.191Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:36:45.910Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:48:30.935Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:48:55.095Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:48:57.167Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:49:20.283Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:49:23.426Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:49:37.709Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:49:44.259Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:49:55.022Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:50:17.275Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:50:30.177Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:50:43.130Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:50:44.088Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:50:56.596Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:51:10.757Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:54:08.036Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:54:09.386Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:54:10.399Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:54:21.559Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:55:29.095Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:56:26.834Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:57:41.196Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:58:01.767Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:58:02.659Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:58:05.313Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T17:58:06.250Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:00:18.277Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:00:24.083Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:00:29.197Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:00:35.690Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:00:36.951Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:02:02.146Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:04:10.972Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:04:14.164Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:48:53.474Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:49:16.419Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:49:17.487Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:49:36.753Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:49:39.905Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:50:19.288Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:50:21.353Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:50:27.235Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:50:30.893Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:50:32.152Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:50:41.046Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:52:01.277Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:52:09.990Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:59:28.490Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:59:30.002Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:59:30.928Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T18:59:32.114Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:00:35.708Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:00:58.026Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:01:02.816Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:01:03.652Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:01:09.369Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:01:14.290Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:10:34.434Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:10:49.100Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:10:50.766Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:16:19.586Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:16:25.775Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:16:40.642Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:16:56.608Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:17:13.052Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:17:15.694Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:18:33.324Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:18:34.729Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:18:55.268Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:18:56.439Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:19:37.440Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:20:42.782Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:20:53.821Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:20:55.904Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:23:05.013Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:23:06.416Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:23:58.021Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:24:06.065Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:24:20.217Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:24:41.878Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:24:52.964Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:24:58.793Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:25:00.346Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:25:05.899Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:25:12.875Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:25:14.212Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:25:54.064Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:26:47.037Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:26:48.638Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:27:35.876Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:27:37.423Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:28:15.089Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:28:33.586Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:28:34.673Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:28:47.865Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:31:46.365Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:33:31.484Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:33:32.812Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:33:50.850Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:34:49.608Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:34:57.800Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:36:04.885Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:36:07.713Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:36:13.552Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:37:36.425Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:38:19.164Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:38:51.963Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:40:27.585Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:40:31.291Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:40:47.068Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:40:51.658Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:41:14.223Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:41:43.762Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:41:58.664Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:43:08.266Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:43:21.083Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:43:36.704Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:43:39.993Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:44:04.632Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:44:24.921Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:44:34.824Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:48:44.440Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:48:52.577Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:48:54.512Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:49:23.348Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:49:43.166Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:49:50.042Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:50:35.481Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:50:37.869Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:55:53.301Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:56:02.503Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:56:10.775Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:57:14.172Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:57:15.212Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:57:26.051Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:57:36.877Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:57:46.874Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:57:47.708Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:57:48.638Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:57:51.333Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:57:57.679Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:58:20.304Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:58:34.605Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:58:50.383Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:59:36.995Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:59:38.621Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T19:59:52.236Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:01:19.391Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:01:20.969Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:01:32.562Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:01:35.722Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:01:51.200Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:02:06.369Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:02:50.257Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:03:04.128Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:03:20.974Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:08:10.496Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:08:36.083Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:08:47.996Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:12:16.512Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:12:18.338Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:18:09.394Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:18:11.352Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:18:56.185Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:19:02.321Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:19:03.225Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:19:04.082Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:19:10.475Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:21:27.946Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:21:58.905Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:22:03.956Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:23:01.835Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:23:13.144Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:23:14.663Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:23:16.459Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:23:29.333Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T20:23:46.635Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:08:04.828Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:08:06.196Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:08:13.955Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:08:17.758Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:08:42.061Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:09:25.050Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:09:26.332Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:09:51.072Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:10:06.980Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:15:37.561Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:15:53.305Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:18:35.310Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:19:24.638Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:19:36.874Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:19:47.022Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:19:47.882Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:21:18.906Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:22:19.500Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:23:19.881Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:23:40.028Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-11T21:25:27.598Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:19:15.177Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:19:43.120Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:20:02.181Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:21:06.371Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:21:48.968Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:24:16.409Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:24:18.063Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:25:52.901Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:27:16.383Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:27:17.423Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:27:38.429Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:28:36.894Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:28:37.992Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:28:47.670Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:29:08.094Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:29:16.198Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:29:17.763Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:29:48.177Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:32:17.632Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:32:20.018Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:32:41.433Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:32:55.262Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:33:36.970Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T16:33:56.199Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T17:29:29.580Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T17:30:13.464Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T17:31:12.158Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T17:33:39.115Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T17:33:52.819Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:01:24.506Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:02:37.090Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:03:15.769Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:03:38.606Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:03:39.502Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:03:41.706Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:03:42.783Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:04:01.121Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:04:15.140Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:04:40.580Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:04:52.413Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:04:54.081Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:05:27.956Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:05:31.259Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:05:33.754Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:05:37.034Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:06:03.842Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:06:18.883Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:06:44.422Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:06:57.201Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:07:07.844Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:07:42.584Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:08:25.899Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:12:31.762Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:12:38.385Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:14:59.099Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:15:07.391Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:15:20.442Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:15:21.523Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:18:59.926Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:19:02.989Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:19:21.694Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:21:57.286Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:22:03.243Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:22:28.596Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:22:29.852Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:23:53.116Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:34:05.779Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:35:32.493Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:36:14.479Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:36:28.279Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:36:39.822Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:37:45.045Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:52:58.992Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T18:53:00.929Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:03:16.058Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:04:20.016Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:04:30.419Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:04:33.355Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:10:24.078Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:10:52.036Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:11:04.576Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:11:18.194Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:11:20.544Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:11:40.601Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:11:42.356Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:11:52.431Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:12:15.721Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:12:17.075Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:16:44.822Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:16:45.835Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:17:05.976Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:18:07.081Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:19:39.483Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:19:57.810Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:20:02.286Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:20:17.846Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:20:47.351Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:22:46.389Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:23:09.475Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:23:19.360Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:24:28.984Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T19:24:52.538Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T20:59:16.544Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T21:00:42.389Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T21:00:45.719Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T21:01:00.521Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T21:01:01.860Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T21:01:35.291Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T21:01:39.469Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T21:01:40.887Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T21:02:11.978Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T21:14:41.996Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T21:14:52.335Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T21:22:59.157Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T21:23:05.997Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T21:23:22.196Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-12T21:23:54.781Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:06:38.873Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:07:02.203Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:07:10.694Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:07:22.958Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:07:32.142Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:07:34.195Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:07:44.124Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:07:45.925Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:10:21.560Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:11:33.709Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:11:54.124Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:11:59.339Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:12:13.505Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:15:51.402Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:16:22.890Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:17:18.484Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:17:22.647Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:17:23.557Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:17:27.066Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:17:34.620Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:18:12.429Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:27:21.940Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:27:24.124Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:28:30.385Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:28:31.451Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:28:33.638Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:28:49.415Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:29:11.242Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:29:19.308Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:29:46.026Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:30:05.203Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:30:33.322Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:35:12.722Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:37:29.107Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:37:43.926Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:38:01.617Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:39:12.391Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:39:33.127Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-13T15:39:34.301Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-26T15:05:14.904Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-26T15:05:27.694Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-26T15:07:26.812Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-26T15:28:20.582Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-26T15:42:34.688Z"}
+{"level":"info","message":"Starting..","timestamp":"2017-04-26T15:44:20.196Z"}

@@ -1,0 +1,34 @@
+ nav
+        ul
+            li()
+                a(href='/remove/from_csv') remove from_csv   
+            li()
+                a(href='/remove/from_DOC') remove from_DOC  
+            li()
+                a(href='/remove/from_error') remove from_error  
+            li()
+                a(href='/remove/to_re_execute') remove to_re_execute  
+        ul     
+            li()
+                a(href='/execute/4') execute 4
+            li()
+                a(href='/execute/40') execute 40
+            li()
+                a(href='/execute/400') execute 400
+            li()
+                a(href='/importCSVfromSheets') importCSVfromSheets   
+                
+        ul
+            li()
+                a(href='/getDocuments/to_re_execute') to_re_execute
+            li()
+                a(href='/getDocuments/from_error') from_error
+            li()
+                a(href='/getDocuments/from_csv') from_csv
+            li()
+                a(href='/getDocuments/from_DOC') from_DOC
+        ul
+            li()        
+                a(href='/runForNid/') /runForNid/:nid
+        ul 
+            li()
